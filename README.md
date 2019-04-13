@@ -18,7 +18,7 @@ If you are interested in this method please cite:
 ```
 
 ## Models
-The pre-trained model can be found in [dropbox](https://www.dropbox.com/sh/t5brryoagx4l7ye/AACpa5lUkqqjPCsChCUuNwfya?dl=0)
+The pre-trained model can be found in [dropbox](https://www.dropbox.com/sh/t5brryoagx4l7ye/AACpa5lUkqqjPCsChCUuNwfya?dl=0).
 For running the demo, please downloard the model to the directory of **./model/**.
 
 ![Sal-DCNN](/fig/SalDCNN.png "Sal-DCNN")
