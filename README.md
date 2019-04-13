@@ -25,11 +25,13 @@ For running the demo, please downloard the model to the directory of **./model/*
 
 
 ## Usage
-This model is implemented by **tensorflow-gpu** 1.0.0, and the detail of our computational environment is listed in **'requirement.txt'**. Just run **'TestDemo.py'** to see the saliency prediction results on a test video.
+This model is implemented by **tensorflow-gpu** 1.10.0, and the detail of our computational environment is listed in **'env.txt'**. 
+Run **'TestSALDCNN.py'** to get the saliency prediction results over the images put in **./img/**.
 
-## Visual Results
-Some visual results of our model and ground-truth.
-![visualresult](/fig/visualresult.png "visualresult")
+## Results
+The results are output to  **./result/**.
+Some results of our model and ground-truth.
+![Results](/fig/res.png "Results")
 
 ## Contact
 If any question, please contact jianglai.china@buaa.edu.cn （or jianglai.china@gmail.com）, or use public issues section of this repository.
